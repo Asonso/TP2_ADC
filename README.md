@@ -2,4 +2,4 @@
 * Cristiano Santos
 * Henrique Gabriel
 * Afonso Santos
-* Francisco Domingoa
+* Francisco Domingos
